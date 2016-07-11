@@ -10,3 +10,21 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+img {
+  padding: 1rem;
+}
+.small {
+	height: 300px;
+	width: 300px;
+}
+
+.left {
+	float: left;
+}
+
+.right{
+	float:right;
+}
+
+
