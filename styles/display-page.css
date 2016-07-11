@@ -1,0 +1,42 @@
+body{
+	display: flex;
+	width: 800px;
+	height: 500px;
+	flex-flow: wrap row;
+}
+
+p {
+	border: 1px black solid;
+	font-size: 0;
+	margin: 0em; 
+}
+
+.top{
+	width: 50%;
+	height: 40%;
+}
+
+.bottom{
+	width: 33.33%;
+	height: 60%;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.grey{
+	background-color: grey;
+}
+
+.black{
+	background-color: black;
+}
+
+.gold{
+	background-color: gold;
+}
